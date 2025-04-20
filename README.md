@@ -32,6 +32,8 @@ Results:
 ![Screenshot (262)](https://github.com/user-attachments/assets/c14d94c7-46c8-4ee1-bcdd-98a079533b3d)
 ![Screenshot (263)](https://github.com/user-attachments/assets/105a660e-5959-42a7-92c7-10595ae416a2)
 ![Screenshot (266)](https://github.com/user-attachments/assets/0d29079e-4354-4c38-a68b-f5daf1f72f47)
+![netdata-logs](https://github.com/user-attachments/assets/2938a30c-c503-4be3-9fd0-3b379e960705)
+
 
 
 
